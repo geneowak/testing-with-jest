@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`user matches 1`] = `
+Object {
+  "age": 23,
+  "job": "wife",
+  "name": "Ellene Owak",
+}
+`;
